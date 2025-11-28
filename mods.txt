@@ -1,2 +1,0 @@
-GVCLib__1.12.2__9.4.jar
-HandmadeGuns2_1.12.2.jar
